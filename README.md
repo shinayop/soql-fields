@@ -13,7 +13,7 @@ spring-21-programmatic
 
 ## Dataset
 
-The dataset in this project is randomly generated using Snowfakery. Click here to learn about [[Snowfakery](https://snowfakery.readthedocs.io/en/stable/)].
+The dataset in this project is randomly generated using Snowfakery. Learners are not required to use Snowfakery in this hands-on module. This message is to just answer the question where the data came from. Click here to learn about [[Snowfakery](https://snowfakery.readthedocs.io/en/stable/).
 
 ## Configure Your Salesforce DX Project
 
