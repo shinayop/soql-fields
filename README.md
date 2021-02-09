@@ -1,16 +1,25 @@
 # soql-fields
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This repository aligns to the Spring '21 Programmatic Code badge
 
-## How Do You Plan to Deploy Your Changes?
+spring-21-programmatic
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Tools
+
+| Tool:       |Version:                                                                                                                                 |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **SFDX-CLI** | [![npm](https://img.shields.io/npm/v/sfdx-cli.svg?label=Salesforce%20CLI&&color=lightblue&logo=Salesforce&style=for-the-badge)](https://developer.salesforce.com/tools/sfdxcli)  |
+| **VS Code**  | ![alt-text](https://img.shields.io/badge/VS_CODE-1.51.1-BrightGreen?style=Popout&logo=Visual-Studio-Code) |
+
+## Dataset
+
+The dataset in this project is randomly generated using Snowfakery. Click here to learn about [[Snowfakery](https://snowfakery.readthedocs.io/en/stable/)].
 
 ## Configure Your Salesforce DX Project
 
 The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-## Read All About It
+## Read All About Salesforce CLI
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
